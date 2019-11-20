@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (平时练习_.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  二叉堆最小堆.cpp
+e:\vs2015\数据结构与算法·练习\数据结构与算法·练习\二叉堆最小堆.cpp(108): warning C4715: “minheap_remove”: 不是所有的控件路径都返回值
+  数据结构与算法·练习.vcxproj -> E:\vs2015\数据结构与算法·练习\Debug\数据结构与算法·练习.exe
+  数据结构与算法·练习.vcxproj -> E:\vs2015\数据结构与算法·练习\Debug\数据结构与算法·练习.pdb (Full PDB)
